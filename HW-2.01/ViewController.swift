@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  HW-2.01
-//
-//  Created by Дмитрий on 18.10.2022.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
